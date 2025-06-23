@@ -1,4 +1,4 @@
-# House-Prices---Advanced-Regression-Techniques-Kaggle-competition-
+# House-Prices-Advanced-Regression-Techniques-Kaggle-competition-
 Kaggle competition page: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 Data collection:
 Data collect through the kaggle competition page train and test datasets.
