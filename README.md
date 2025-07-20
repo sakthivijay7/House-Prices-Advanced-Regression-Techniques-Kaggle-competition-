@@ -1,5 +1,5 @@
 # House-Prices-Prediction- Advanced-Regression-Techniques-Kaggle-competition
-#### Date:June23 -2025
+#### Date:June22 -2025
 Kaggle competition page: (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
 - **Data collection:**
